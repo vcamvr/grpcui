@@ -4,7 +4,8 @@ go 1.15
 
 require (
 	github.com/fullstorydev/grpcurl v1.8.5
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
+	github.com/hashicorp/consul/api v1.8.1
 	github.com/jhump/protoreflect v1.10.1
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
